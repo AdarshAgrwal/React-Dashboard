@@ -44,7 +44,7 @@ const Sidebar = ({sidebarOpen , closeSidebar})=>{
                     <a  href="#">Requests</a>
                 </div>
                 <div className="sidebar__link">
-                    <i className="fa fa-sign-out"></i>
+                    <i className="fa fa-sign"></i>
                     <a  href="#">Leave Policy</a>
                 </div>
                 <div className="sidebar__link">
@@ -52,16 +52,16 @@ const Sidebar = ({sidebarOpen , closeSidebar})=>{
                     <a  href="#">Special Days</a>
                 </div>
                 <div className="sidebar__link">
-                    <i className="fa fa-files"></i>
+                    <i className="fa fa-file"></i>
                     <a  href="#">Apply for Leave</a>
                 </div>
                 <h2> PAYROLL </h2>
                 <div className="sidebar__link">
-                    <i className="fa fa-money"></i>
+                    <i className="fa fa-rupee-sign"></i>
                     <a  href="#">Payroll</a>
                 </div>
                 <div className="sidebar__link">
-                    <i className="fa fa-breifcase"></i>
+                    <i className="fa fa-money-bill"></i>
                     <a  href="#">Paygrade</a>
                 </div>
                 <div className="sidebar__link">
